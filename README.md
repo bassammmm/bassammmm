@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Bassam.
+### Hi there 👋, I'm Bassam
 
 
 
 
-- 🔭 I’m currently working on a Virtual Reality Social Application Project - WE-ARE
+
 
 
